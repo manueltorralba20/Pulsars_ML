@@ -1,0 +1,2 @@
+# Ignore personal checkpoints
+.ipynb_checkpoints/** 
